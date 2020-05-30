@@ -1,0 +1,6 @@
+/home/xu/Workspace/Yuki_challenge/snow_detect_simple/detect_img/00002.jpg
+/home/xu/Workspace/Yuki_challenge/snow_detect_simple/detect_img/00007.jpg
+/home/xu/Workspace/Yuki_challenge/snow_detect_simple/detect_img/00010.jpg
+/home/xu/Workspace/Yuki_challenge/snow_detect_simple/detect_img/00031.jpg
+/home/xu/Workspace/Yuki_challenge/snow_detect_simple/detect_img/00040.jpg
+/home/xu/Workspace/Yuki_challenge/snow_detect_simple/detect_img/00201.jpg

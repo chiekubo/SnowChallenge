@@ -1,0 +1,18 @@
+{
+  "pretrained": false,
+  "dataset": "harmo_patch",
+  "workers": 1,
+  "epochs": 60,
+  "start_epoch": 0,
+  "batch_size": 32,
+  "test_batch_size": 32,
+  "lr": 0.1,
+  "momentum": 0.9,
+  "weight_decay": 0.0001,
+  "no_cuda": false,
+  "seed": 1,
+  "resume": null,
+  "eval_interval": 1,
+  "save_path": null,
+  "cuda": true
+}
